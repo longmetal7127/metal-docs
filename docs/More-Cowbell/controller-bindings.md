@@ -1,8 +1,11 @@
 # Controller Bindings
 
-## More Cowbell
+## XBOX Controller (Port 1)
 
 <div id="controller"></div>
+
+## Thrustmaster (Port 0)
+
 <div id="controller-tm"></div>
 
 <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js"></script>
