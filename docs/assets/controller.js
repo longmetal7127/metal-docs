@@ -12,6 +12,7 @@ const controllerBindings = async (config) => {
     buttonElement.style.cursor = "pointer";
     buttonElement.style.filter =
       "drop-shadow(3px 5px 2px rgb(255 255 0 / 0.4))";
+      buttonElement.style.stroke = 'yellow';
       tippy(buttonElement, {
         content: config.buttonMappings[button],
         placement: 'top',
