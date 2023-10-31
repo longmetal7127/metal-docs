@@ -34,7 +34,8 @@
         let tmButtonMappings = {
         'stick-button-right': 'Fine Move Right',
                 'stick-button-left': 'Fine Move Left',
-                        'slider': 'Turbo Mode'
+                        'slider': 'Turbo Mode',
+                        'trigger': "180"
 
 
     };
