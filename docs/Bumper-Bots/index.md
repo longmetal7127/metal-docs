@@ -1,7 +1,9 @@
 # Bumper Bots
 
 We use Bumper Bots for STEM nights, among other reasons. There are two robots, Yella Fella (yellow) and Funny Lad (black)
-The code for these is different because Funny Lad runs on Spark Maxs, and Yella Fella runs on Sparks. 
+The code for these is different because Funny Lad runs on Spark Maxs, and Yella Fella runs on Sparks.
+
+##Warning! One of the Xbox/Logitech CONTROLLERS (not joysticks) works better with one of the bumper bots. Experiment to see which works. 
 
 - The code for Funny Lad is  [here](https://github.com/longmetal7127/Funny-Lad).
 - The code for Yella Fella is [here](https://github.com/longmetal7127/Yella-Fella)
