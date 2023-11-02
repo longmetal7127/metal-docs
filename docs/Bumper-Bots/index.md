@@ -8,9 +8,5 @@ The code for these is different because Funny Lad runs on Spark Maxs, and Yella 
 
 - WIFI for Yella Fella: `7127_MajorTom`
 - WIFI for Funny Lad: `7127`
-
-
-
-  
 - Funny Lad Folder is `Funny-Lad`
 - Yella Fella folder is `Yella-Fella`
