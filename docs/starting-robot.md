@@ -1,5 +1,5 @@
 # Starting The Robot
-
+ 
 ## Accessing and Deploying Code
 1. If you are reading this, you probably already got a computer with the code on it. If not, find either CC1, CC2, or the other Dell laptop (not CAD laptop).
 2. Before anything else, open GitHub Desktop (you can look it up with the Windows Icon to find it). At the top bar, it will say "Fetch Origin", press this. 
