@@ -14,11 +14,12 @@ This is a general style and naming guide for Longmetal code.
 
 ### Formatting
 - **Format code with prettier**. Prettier is a code formatter that automatically formats code to a consistent style. It is available as a VSCode extension, and a CLI.
+- **Comment!** All code should be clear and well commented. Complex code should have a comment explaining what it does. All methods should have a JavaDoc comment explaining what they do and what arguments they accept. Most constants should have a comment explaining their value and <u>units</u>. All comments should be **clear and concise**.
 
 ## Commands
 Most commands should be written as inline lambda commands. For example:
 ```java
-drive.setDefaultCommand(new RunCommand(() -> {
+drive.setDefaultCommand(new RunCommand(() -> { 
     double multiplier = (((joystick.getThrottle() * -1) + 1) / 2); // turbo mode
     double z = RobotContainer.joystick.getZ() / 1.5;
 

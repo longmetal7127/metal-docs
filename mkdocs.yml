@@ -15,6 +15,8 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - admonition
   - pymdownx.details
+  - attr_list
+  - md_in_html
   - pymdownx.superfences
 
 plugins:
