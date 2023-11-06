@@ -8,5 +8,5 @@
 6. Find the robot code. To find the folder name, open the Wiki tab for the robot you want to run. 
 7. Back in VSCode, you should see a little icon at the top left, click it. This will let you see the different files associated with the robot folder. One file in the root folder is called "build.gradle". This builds all the code for the robot so that you can run it. Right click on the "build.gradle" file name and a list of options should show up. Click on "Deploy robot code" towards the bottom. 
 
-::: tip
-Read the [style guide](/style-guide) before editing code
+!!! tip
+    Read the [style guide](style-guide.md) before editing code
