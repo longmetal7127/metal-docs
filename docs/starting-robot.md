@@ -2,7 +2,8 @@
 If you changed code, see [Editing and Deploying Code](editing-code.md)
 ## Turning On The Robot
 1. Get the robot that you are trying to launch. Also get a battery (2023 ones).
-2. Plug the battery into the robot and push the switch, highlighted in yellow in the image below, to turn on the robot. 
+2. Plug the battery into the robot and push the switch, highlighted in yellow in the image below, to turn on the robot.
+3. Connect to the internet needed for the robot you are trying to start. See that robots docs to find the internet name. 
 ![Open Breaker](assets/breaker-enable.png)
 
 ## Running Code
