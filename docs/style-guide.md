@@ -35,7 +35,7 @@ drive.setDefaultCommand(new RunCommand(() -> {
 Only commands that require a large amount of *state* should be written as a separate class. However, if a command is tracking a large amount of state, consider rewriting parts into the subsystem.
 
 ## Subsystems
-Subsystems should be written as a class that extends `SubsystemBase` in the subsystems folder. They should have a `periodic()` method that is called every robot loop. Subsystems should be instantiated in `RobotContainer`. Everything should be a train. `ArmTrain`. `DriveTrain`. `GripperTrain`. It just makes sense. If you disagree, you are wrong.
+Subsystems should be written as a class that extends `SubsystemBase` in the subsystems folder. They should have a `periodic()` method that is called every robot loop. Subsystems should be instantiated in `RobotContainer`. Everything should be a train. `ArmTrain`. `DriveTrain`. `GripperTrain`. It just makes sense. If you disagree, you are wrong, unless you are Jack.
 
 ## Button Bindings
 Button bindings are written in `RobotContainer`. If you update or create a binding, make sure to update the controller bindings page on the wiki.
