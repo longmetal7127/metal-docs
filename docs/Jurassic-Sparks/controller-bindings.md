@@ -14,12 +14,11 @@
 <script src="/assets/controller.js"></script>
 <script>
     let xboxButtonMappings = {
-        'bumper-left': 'Auto Aim',
         'dpad-up': 'Amp Position',
         'dpad-down': 'Intake Position',
         'dpad-left': 'Reverse Shooter',
         'dpad-right': 'Subwoofer Shoot Position',
-        'bumper-left': 'Toggle Brakes',
+        'bumper-left': 'Auto Aim',
         'x': 'Intake',
         'a': "Arm Fine Up",
         'b': "Arm Fine Down",
